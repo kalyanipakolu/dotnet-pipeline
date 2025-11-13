@@ -1,6 +1,6 @@
 # .NET Samples
 
-The code in this repository represents programs that demonstrate Math operations such as addition, multiplication ?
+The code in this repository represents programs that demonstrate Math operations such as addition, multiplication !
 
 
 ## Building a sample for Use code coverage for unit testing
