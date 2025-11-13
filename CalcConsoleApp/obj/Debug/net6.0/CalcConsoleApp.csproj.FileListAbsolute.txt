@@ -1,0 +1,14 @@
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\bin\Debug\net6.0\CalcConsoleApp.exe
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\bin\Debug\net6.0\CalcConsoleApp.deps.json
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\bin\Debug\net6.0\CalcConsoleApp.runtimeconfig.json
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\bin\Debug\net6.0\CalcConsoleApp.dll
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\bin\Debug\net6.0\CalcConsoleApp.pdb
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.AssemblyInfo.cs
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.dll
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\refint\CalcConsoleApp.dll
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.pdb
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\CalcConsoleApp.genruntimeconfig.cache
+C:\Users\Kalyani Pakolu\CalcConsoleApp-master\CalcConsoleApp\obj\Debug\net6.0\ref\CalcConsoleApp.dll
